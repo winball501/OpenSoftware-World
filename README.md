@@ -44,7 +44,7 @@ Hello, I am OpenSoftware-World. My real name is Umut. I am 16 years old. I am in
    * MSDOS (VMware Workstation)
    * macOS Mavericks 10.9.5 (VMware Workstation)
 
-<img src="https://komarev.com/ghpvc/?username=LinuxUsersLinuxMint"/>
+
 
 Türkçe:
 
@@ -90,3 +90,5 @@ Merhaba Ben OpenSoftware-World Gerçek Adım Umut 16 Yaşımdayım Yazılım İl
    * MikeOS and MikeOS Distribution (VMware Workstation)
    * MSDOS (VMware Workstation)
    * macOS Mavericks 10.9.5 (VMware Workstation)
+
+<img src="https://komarev.com/ghpvc/?username=LinuxUsersLinuxMint"/>
