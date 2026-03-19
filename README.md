@@ -9,7 +9,7 @@ Hello, I am OpenSoftware-World. My real name is Umut. I am 16 years old. I am in
     * Visual Studio 2019,2022 
   * Programming Languages ​​I Know  
     * Python 
-    * HTML  
+    * HTML  (It is a markup language, not programming.)
     * CSS  
     * JS  
     * C  
@@ -18,7 +18,7 @@ Hello, I am OpenSoftware-World. My real name is Umut. I am 16 years old. I am in
 * Programming Languages ​​I am Interested in and Aim for:
  * Programming Languages ​​I'm Interested In:
    * Python
-   * HTML
+   * HTML 
    * CSS
    * JS
    * C
@@ -50,7 +50,7 @@ Türkçe:
 
 Merhaba Ben OpenSoftware-World Gerçek Adım Umut 16 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
 
-* Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
+* Bildiğim Programlama Dilleri Ve Araçları/Kullandığım  
   * Bildiğim Programlama Araçları
     * Visual Studio Code 
     * Visual Studio 2019,2022  
